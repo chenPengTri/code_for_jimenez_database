@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.npy
+*.npz
+.venv/
+Re550_2pipi/
+TS*/
+comparison*/
+*.log
